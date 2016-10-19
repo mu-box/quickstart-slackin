@@ -19,7 +19,7 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 #### Nanobox
 
-[Follow these instructions.](https://docs.nanobox.io/production/deploy-code/)
+[Follow these guides](https://docs.nanobox.io/production/deploy-code/), or [this quickstart.](docs/nanobox.md)
 
 #### Heroku
 
