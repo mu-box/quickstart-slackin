@@ -17,6 +17,10 @@ Read more about the [motivations and history](http://rauchg.com/slackin) behind 
 
 ### Server
 
+#### Nanobox
+
+[Follow these instructions.](https://docs.nanobox.io/production/deploy-code/)
+
 #### Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rauchg/slackin/tree/master)
