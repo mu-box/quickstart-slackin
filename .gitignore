@@ -1,5 +1,10 @@
 # dependencies
 node_modules
 
+# nanobox deploy things
+yarn.lock
+dist
+
+
 # logs
 npm-debug.log
